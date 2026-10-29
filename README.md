@@ -2,7 +2,7 @@
 
 ##  Assignment Description
 
-Response clarity classification of political interviews (Clear Reply, Ambivalent, Clear Non-Reply), based on SemEval 2026 Task 6 (CLARITY), 
+Clarity classification of responses in political interviews (Clear Reply, Ambivalent, Clear Non-Reply), based on SemEval 2026 Task 6 (CLARITY), 
 using prompt engineering with three instruction-tuned language models (Qwen3.5-0.8B, Qwen3.5-2B, Qwen3.5-4B) from the Hugging Face Transformers 
 library, without any fine tuning. The project compares zero-shot, few-shot, chain-of-thought (CoT), persona, persona + few-shot and 
 persona + CoT prompting strategies across all three models.
