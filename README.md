@@ -1,4 +1,4 @@
-# llm-prompt-engineering-political-interviews-clarity-classification
+# llm prompt engineering political interviews clarity classification
 
 ##  Assignment Description
 
