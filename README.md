@@ -5,7 +5,11 @@
 Clarity classification of responses in political interviews (Clear Reply, Ambivalent, Clear Non-Reply), based on SemEval 2026 Task 6 (CLARITY), 
 using prompt engineering with three instruction-tuned language models (Qwen3.5-0.8B, Qwen3.5-2B, Qwen3.5-4B) from the Hugging Face Transformers 
 library, without any fine tuning. The project compares zero-shot, few-shot, chain-of-thought (CoT), persona, persona + few-shot and 
-persona + CoT prompting strategies across all three models.
+persona + CoT prompting strategies across all three models
+
+## Runtime 
+
+The full notebook takes approximately 9 hours and 20 minutes to run on Google Colab with a Tesla T4 GPU
 
 ##  Dataset
 
