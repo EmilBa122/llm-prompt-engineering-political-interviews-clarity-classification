@@ -9,7 +9,7 @@ persona + CoT prompting strategies across all three models
 
 ## Runtime 
 
-The full notebook takes approximately 9 hours and 20 minutes to run on Google Colab with a Tesla T4 GPU
+The notebook takes approximately 9 hours and 20 minutes to run on Google Colab with a Tesla T4 GPU
 
 ##  Dataset
 
